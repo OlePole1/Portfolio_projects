@@ -19,5 +19,5 @@ The insurance dataset used in this project contains information on medical costs
 
 •	charges: medical charges for the individual
 
-The dataset can be found in the [**insurance.csv**]() file.
+The dataset can be found in the [**insurance.csv**](https://github.com/OlePole1/Portfolio_projects/blob/main/Insurance%20Data%20Analysis/insurance-data.csv) file.
 
