@@ -22,7 +22,7 @@ The insurance dataset used in this project contains information on medical costs
 The dataset can be found in the [**insurance.csv**](https://github.com/OlePole1/Portfolio_projects/blob/main/Insurance%20Data%20Analysis/insurance-data.csv) file.
 
 ## **Analysis** ##
-The insurance_analysis.ipynb notebook contains the code for analyzing the dataset. The notebook first loads the dataset using the seaborn library and performs some initial exploration of the data, such as checking for missing values and calculating summary statistics.
+The [insurance_analysis.ipynb](https://github.com/OlePole1/Portfolio_projects/blob/main/Insurance%20Data%20Analysis/Insurance%20project.ipynb) notebook contains the code for analyzing the dataset. The notebook first loads the dataset using the seaborn library and performs some initial exploration of the data, such as checking for missing values and calculating summary statistics.
 The notebook then uses various seaborn functions to create visualizations of the data, such as histograms, box plots, and scatter plots. These visualizations are used to identify any potential relationships between the variables, particularly the "smoker" and "charges" variables.
 
 
