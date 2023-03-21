@@ -1,4 +1,4 @@
-# **Insurance Data Analysis** #
+# **Health Insurance Data Analysis** #
 
 This project analyzes an insurance dataset using Python and the Seaborn library. The main goal is to explore the dataset and identify any potential relationships between the variables, particularly the "smoker" and "charges" variables.
 
