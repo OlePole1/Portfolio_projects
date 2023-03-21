@@ -2,6 +2,9 @@
 
 This project analyzes an insurance dataset using Python and the Seaborn library. The main goal is to explore the dataset and identify any potential relationships between the variables, particularly the "smoker" and "charges" variables.
 
+![legal_medical_analysis_cropped](https://user-images.githubusercontent.com/105461536/226491928-5700af4c-6e73-43ba-b1f1-91cf99a8f9c8.jpg)
+
+
 ## **Dataset** ##
 The insurance dataset used in this project contains information on medical costs for different individuals. The dataset includes the following columns:
 
