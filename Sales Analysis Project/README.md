@@ -1,3 +1,5 @@
+# **Sales Analysis**
+
 ## Findings 
 From the analysis of the data, it was found that the best month for sales was December, while the worst month for sales was January. There is a noticeable trend in sales throughout the year, with sales increasing from January to April, declining from May to August, and then increasing again from September to December. This trend could be influenced by factors such as seasonal changes or marketing campaigns.
 
