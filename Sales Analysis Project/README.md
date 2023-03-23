@@ -1,7 +1,7 @@
 # **Sales Analysis**
 This project is a data analysis of sales data for a company that sells various products online. The data includes information such as the total sales, the best and worst months for sales, the cities with the highest total sales, and the products with the highest sales volume. The analysis aims to identify patterns and trends in the data, as well as provide insights that can be used to optimize marketing strategies and improve sales performance.
 
-![analysis](https://github.com/OlePole1/Portfolio_projects/blob/main/Sales%20Analysis%20Project/BData-blog.jpg)
+![analysis](https://github.com/OlePole1/Portfolio_projects/blob/main/Sales%20Analysis%20Project/optimized-nathanlukow.jpg)
 
 ## Findings 
 From the analysis of the data, it was found that the best month for sales was December, while the worst month for sales was January. There is a noticeable trend in sales throughout the year, with sales increasing from January to April, declining from May to August, and then increasing again from September to December. This trend could be influenced by factors such as seasonal changes or marketing campaigns.
