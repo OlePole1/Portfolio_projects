@@ -17,7 +17,7 @@ The Covid-19 dataset used in this project contains information on the number of 
 
 
 ## **Analysis** ##
-The covid_project.ipynb notebook contains the code for analyzing the Covid-19 dataset. The notebook first loads the dataset using the Pandas library and performs some initial exploration of the data, such as checking for missing values and calculating summary statistics. The notebook then uses various Pandas functions to manipulate and analyze the data, such as grouping the data by country and calculating the total number of cases, deaths, and recoveries for each country.
+The [**Portfolio Covid Query.sql**](https://github.com/OlePole1/Portfolio_projects/blob/main/Covid%20Data%20Exploration/Portfolio%20Covid%20Query.sql)notebook contains the code for analyzing the Covid-19 dataset. The notebook first loads the dataset using the Pandas library and performs some initial exploration of the data, such as checking for missing values and calculating summary statistics. The notebook then uses various Pandas functions to manipulate and analyze the data, such as grouping the data by country and calculating the total number of cases, deaths, and recoveries for each country.
 
 The notebook also uses various visualization techniques to help identify any potential trends or patterns in the data, such as line plots, bar charts, and heatmaps. These visualizations are used to explore how the Covid-19 pandemic has affected different countries and regions over time, and to identify any differences in the number of cases, deaths, and recoveries between countries.
 
