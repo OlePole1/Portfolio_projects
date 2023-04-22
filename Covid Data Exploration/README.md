@@ -1,5 +1,6 @@
 # **Covid-19 Data Analysis** #
 This project analyzes Covid-19 data using Python and the Pandas library. The main goal is to explore the dataset and identify any potential trends or patterns in the data.
+!https://github.com/OlePole1/Portfolio_projects/blob/main/Covid%20Data%20Exploration/coronavirus-2.tmb-479v.jpg
 
 ## **Dataset** ##
 The Covid-19 dataset used in this project contains information on the number of confirmed cases, deaths, and recoveries for different countries and regions. The dataset includes the following columns:
