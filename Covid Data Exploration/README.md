@@ -17,9 +17,7 @@ The Covid-19 dataset used in this project contains information on the number of 
 
 
 ## **Analysis** ##
-The [**Portfolio Covid Query.sql**](https://github.com/OlePole1/Portfolio_projects/blob/main/Covid%20Data%20Exploration/Portfolio%20Covid%20Query.sql) notebook contains the code for analyzing the Covid-19 dataset. The notebook first loads the dataset using the Pandas library and performs some initial exploration of the data, such as checking for missing values and calculating summary statistics. The notebook then uses various Pandas functions to manipulate and analyze the data, such as grouping the data by country and calculating the total number of cases, deaths, and recoveries for each country.
-
-The notebook also uses various visualization techniques to help identify any potential trends or patterns in the data, such as line plots, bar charts, and heatmaps. These visualizations are used to explore how the Covid-19 pandemic has affected different countries and regions over time, and to identify any differences in the number of cases, deaths, and recoveries between countries.
+The [**Portfolio Covid Query.sql**](https://github.com/OlePole1/Portfolio_projects/blob/main/Covid%20Data%20Exploration/Portfolio%20Covid%20Query.sql) notebook contains the code for analyzing the Covid-19 dataset. This BigQuery project analyzes COVID-19 data and explores various aspects of the pandemic, including total cases and deaths, infection rates, and vaccination rates. The code includes queries that calculate death percentages by country, infection rates compared to population, and total cases and deaths globally. Additionally, the project creates a view to store data for later visualization.
 
 ## **Findings** ##
 The study found that the Covid-19 pandemic has affected different countries and regions in different ways. Some countries have been able to effectively control the spread of the virus and limit the number of cases, while others have experienced large outbreaks and significant numbers of deaths.
