@@ -1,5 +1,5 @@
 # **Covid-19 Data Analysis** #
-This project analyzes Covid-19 data using Python and the Pandas library. The main goal is to explore the dataset and identify any potential trends or patterns in the data.
+This project analyzes Covid-19 data using BigQuery. The main goal is to explore the dataset and identify any potential trends or patterns in the data.
 
 
 ![istock-1203824669.jpg](https://github.com/OlePole1/Portfolio_projects/blob/main/Covid%20Data%20Exploration/istock-1203824669.jpg)
@@ -15,7 +15,6 @@ The Covid-19 dataset used in this project contains information on the number of 
 
 • Recovered: the total number of Covid-19 recoveries
 
-The dataset can be found in the covid.csv file.
 
 ## **Analysis** ##
 The covid_project.ipynb notebook contains the code for analyzing the Covid-19 dataset. The notebook first loads the dataset using the Pandas library and performs some initial exploration of the data, such as checking for missing values and calculating summary statistics. The notebook then uses various Pandas functions to manipulate and analyze the data, such as grouping the data by country and calculating the total number of cases, deaths, and recoveries for each country.
