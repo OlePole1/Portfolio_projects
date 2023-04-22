@@ -1,4 +1,4 @@
-### Covid-19 Data Analysis ###
+## Covid-19 Data Analysis ##
 This project analyzes Covid-19 data using Python and the Pandas library. The main goal is to explore the dataset and identify any potential trends or patterns in the data.
 
 Dataset
